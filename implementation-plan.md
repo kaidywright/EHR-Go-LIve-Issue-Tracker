@@ -16,10 +16,10 @@ Improve patient safety and workflow efficiency by resolving barcode scanning and
 - **Sprint Duration:** 2 weeks
 - **Team Roles:**
   - Scrum Master: Kaidy Wright (RN, CSM)
-  - Clinical Analyst: [Sample Name]
-  - EHR Integration Specialist: [Sample Name]
-  - QA Tester: [Sample Name]
-- **Tools:** Jira, GitHub, Zoom, Slack
+  - Clinical Analyst: [Team Member A]
+  - EHR Integration Specialist: [Team Member B]
+  - QA Tester: [Team Member C]
+- **Tools:** Jira, GitHub, Teams
 
 ---
 
