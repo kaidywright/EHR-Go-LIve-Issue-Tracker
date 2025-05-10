@@ -10,7 +10,7 @@ Hi, I'm **Kaidy Wright** — a Registered Nurse and Certified Scrum Master with 
 |---------|----------|---------------------------------------------------------------|
 | ✅ **Project 1** | **GitHub (Markdown + Boards)** | Agile sprint for Barcode Medication Scanning Go-Live |
 | ✅ **Project 2** | **Jira Scrum Board** | Support staff onboarding & shift planning for full EHR Go-Live |
-| 🔜 Project 3 | ClickUp | Change requests and high-priority bug management |
+| ✅ **Project 3**| **Smartsheet Scrum Board** |  SaaS onboarding coordination |
 | 🔜 Project 4 | Trello | Post-go-live stabilization and system optimization planning |
 
 Each project simulates a real-world scenario using the actual tools healthcare organizations implement in their tech stack. These are not theoretical writeups — they include task boards, subtasks, timelines, and documentation.
@@ -103,7 +103,35 @@ The project is structured using Agile Scrum methodology with epics, sprints, and
 - Sprint reporting and communication to stakeholders
 
 ---
+# 🟦 Project 3: Client Launch Navigator – Agile Support Workflow (Smartsheet Scrum Board)
 
+This project simulates how I, as a Project Coordinator, would manage the onboarding and go-live preparation for multiple SaaS clients using Agile principles inside Smartsheet.
+
+I created a **Scrum-style board using Smartsheet’s Card View**, managing tasks across two sprints: Setup and Go-Live Prep. Each onboarding task is treated like a user story, with a status of **To Do → In Progress → Done**, tracked across clients like ZenCloud, Apex Energy, and HealthTech Co.
+
+The board includes:
+- Sprint assignments and client-specific task cards
+- Status-driven swimlanes for visual progress tracking
+- Priority, owner, and due dates on each card
+- Notes to capture blockers or special needs
+
+✅ All tasks were created in **Grid View**, then visualized in **Card View** as a functional Scrum board — reflecting my ability to plan, structure, and deliver coordinated rollouts across stakeholders.
+
+---
+
+## 📸 Smartsheet Board Snapshot
+
+📎 [Client Onboarding Scrum Board (PDF)](./assets/smartsheet_scrum_board.pdf)
+
+This PDF shows a live view of the actual Smartsheet Scrum board in use.
+
+---
+
+## 🧠 Key Skills Demonstrated
+- Created a fully functional Kanban/Scrum board inside Smartsheet from scratch
+- Used dropdown fields, conditional formatting, and view toggling
+- Managed sprint-based client onboarding across phases
+- Translated coordination tasks into Agile workflows for operational readiness
 ## 👩🏾‍⚕️ About Me
 
 I’m Kaidy Wright — a **Registered Nurse + Certified Scrum Master**. I specialize in:
