@@ -81,7 +81,7 @@ The project is structured using Agile Scrum methodology with epics, sprints, and
 ## 📁 Project Files
 
 📎  [Training Schedule (Excel)](./assets/training_schedule.xlsx)
-
+Download to view
 ---
 
 ## 🧩 Epics in Jira Project
