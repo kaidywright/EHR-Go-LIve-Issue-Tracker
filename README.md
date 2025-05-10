@@ -80,7 +80,7 @@ The project is structured using Agile Scrum methodology with epics, sprints, and
 
 ## 📁 Project Files
 
-📎 [Mock Training Schedule (Excel)](./assets/Mock%20Training%20Schedule.xlsx)
+📎  [Training Schedule (Excel)](./assets/training_schedule.xlsx)
 
 ---
 
