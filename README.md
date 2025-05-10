@@ -2,6 +2,15 @@
 
 This project demonstrates a sample Agile sprint for a hospital software implementation project. Created by me, Kaidy Wright - a Registered Nurse + Scrum Master to showcase planning, roles, and tasks in a clinical go-live setting.
 
+I  have a link to my Jira scrum board
+## 🔗 Jira Board (Private View)
+
+This project was built and tracked using a Jira Scrum board.
+
+🔗 [View Jira Board (Login Required)]([https://your-jira-url.atlassian.net/jira/software/projects/XYZ/boards/1](https://kaidywright1.atlassian.net/jira/software/projects/EHRGO/boards/35))
+
+> Note: Jira boards are private by default. Please refer to the screenshots below for a full view of sprint planning, stories, and subtasks.
+
 ---
 
 ---
