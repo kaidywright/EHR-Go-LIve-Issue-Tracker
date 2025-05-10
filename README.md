@@ -125,6 +125,8 @@ The board includes:
 
 This PDF shows a live view of the actual Smartsheet Scrum board in use.
 
+Or view here 📸 [View Smartsheet Scrum Board (Screenshot)](./assets/Smartsheet%20Scrum%20board.pdf)
+
 ---
 
 ## 🧠 Key Skills Demonstrated
