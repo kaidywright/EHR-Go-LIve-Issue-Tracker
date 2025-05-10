@@ -1,88 +1,118 @@
-# Healthcare Go-Live Sprint Tracker
+# 🩺 EHR Implementation Project Portfolio (Multi-Platform Series)
 
-This project demonstrates a sample Agile sprint for a hospital software implementation project. Created by me, Kaidy Wright - a Registered Nurse + Scrum Master to showcase planning, roles, and tasks in a clinical go-live setting.
-
-I  have a link to my Jira scrum board
-## 🔗 Jira Board (Private View)
-
-This project was built and tracked using a Jira Scrum board.
-
-🔗 [View Jira Board (Login Required)]([https://your-jira-url.atlassian.net/jira/software/projects/XYZ/boards/1](https://kaidywright1.atlassian.net/jira/software/projects/EHRGO/boards/35))
-
-> Note: Jira boards are private by default. Please refer to the screenshots below for a full view of sprint planning, stories, and subtasks.
+Hi, I'm **Kaidy Wright** — a Registered Nurse and Certified Scrum Master with over 15 years of healthcare experience. This repository showcases a **growing 4-part project portfolio** demonstrating how I use multiple tools and methodologies to plan, coordinate, and execute healthcare IT and go-live initiatives.
 
 ---
 
+## 📦 Project Overview
+
+| Project | Platform | Focus |
+|---------|----------|---------------------------------------------------------------|
+| ✅ **Project 1** | **GitHub (Markdown + Boards)** | Agile sprint for Barcode Medication Scanning Go-Live |
+| ✅ **Project 2** | **Jira Scrum Board** | Support staff onboarding & shift planning for full EHR Go-Live |
+| 🔜 Project 3 | ClickUp | Change requests and high-priority bug management |
+| 🔜 Project 4 | Trello | Post-go-live stabilization and system optimization planning |
+
+Each project simulates a real-world scenario using the actual tools healthcare organizations implement in their tech stack. These are not theoretical writeups — they include task boards, subtasks, timelines, and documentation.
+
 ---
 
-## 📌 Project Scenario
+# ✅ Project 1: Barcode Scanning Go-Live (GitHub-Tracked Sprint)
 
-Imagine a hospital going live with a new Electronic Health Record (EHR) feature: **Barcode Medication Scanning**.
+This project lives at [Project 1 – Healthcare Go-Live Sprint Tracker](https://github.com/kaidywright/Healthcare-Go-Live-Sprint-Tracker)
 
-Clinical staff are reporting:
-- Barcodes not scanning properly
-- Medication orders not appearing
-- Users having access issues
-- Missing patient labels
+## 🧠 Scenario
 
----
+A hospital is going live with barcode scanning functionality in its EHR. Staff are encountering:
+- Broken scanner workflows
+- Incomplete med orders
+- Access issues
+- Label printing problems
 
 ## 🎯 Sprint Goal
 
-To resolve critical issues related to barcode scanning and ensure safe medication administration within 2 weeks of go-live.
+To resolve critical barcode-related issues within 2 weeks to restore safe medication administration.
+
+## 🛠 Tools Used
+- GitHub Projects
+- Markdown for backlog
+- Roles matrix, timeline, and retrospective tracking
+
+> 📌 This project showcases sprint management, backlog organization, and communication planning inside GitHub.
 
 ---
 
-## ✅ Sprint Backlog (Sample Tasks)
+# 🔵 Project 2: EHR Go-Live Staffing & Onboarding (Jira Scrum Project)
 
-- [ ] Investigate barcode scanning issues on Med-Surg floor
-- [ ] Troubleshoot missing medication orders in EHR
-- [ ] Grant correct EHR access for new hires
-- [ ] Provide barcode scanner training refresher
-- [ ] Validate patient label print workflows
+This project utilizes a Jira Scrum boards to manage a hospital’s support staff ramp-up ahead of a major EHR Go-Live.
 
 ---
 
-## 👥 Team Roles
+## 📘 Project Summary
 
-| Role                | Name                 |
-|---------------------|----------------------|
-| Scrum Master        | Kaidy Wright (RN, CSM) |
-| Product Owner       | Clinical Informatics Lead |
-| Dev Team            | EHR Analysts, IT Support |
-| Clinical Champion   | Unit-based Super Users |
+This project simulates how I would coordinate:
+- Credentialing for 50+ temporary Super Users & Elbow Support staff
+- HIPAA and system training compliance
+- Staff scheduling and shift coverage during Go-Live week
 
----
-
-## 📆 Sprint Timeline
-
-- **Sprint Duration:** 2 weeks  
-- **Start Date:** April 15, 2025  
-- **End Date:** April 29, 2025
+The project is structured using Agile Scrum methodology with epics, sprints, and subtasks built inside Jira.
 
 ---
 
-## 📋 Retrospective Notes
+## 🔗 Jira Board (Private View)
 
-- Assign unit-specific IT support during first 48 hours of go-live
-- Establish escalation process before Day 1
-- Provide laminated 1-pagers for scanner troubleshooting tips at each workstation
-- Implement a clear escalation flow for critical medication safety concerns
+🔗 [View Jira Scrum Board](https://kaidywright1.atlassian.net/jira/software/projects/EHRGO/boards/35)
 
----
-
-## 🚀 Purpose of This Project
-
-To simulate a real-world go-live project and demonstrate:
-- Showcase my ability to lead a project using Agile methodology while using technical tools like GitHub
-- Use of GitHub for organizing sprint tasks
-- Demonstrate clear communication of sprint goals, team roles, and backlog items
-- 
-
-🩺 As a **Registered Nurse and Certified Scrum Master**, I bring a rare blend of clinical expertise, project coordination, and agile leadership.  
-📈 This mock sprint reflects real-world challenges I’ve helped navigate during high-impact healthcare initiatives — from go-lives to process improvement and cross-functional collaboration.
+> ⚠️ Jira boards are private by default. Screenshots are provided below for full visibility into epics, backlog, sprint structure, and tracking.
 
 ---
 
-> 💡 Want to collaborate or learn more?  
-> Let's connect on [LinkedIn](https://www.linkedin.com/in/kaidywright/)!
+## 📸 Jira Screenshot Gallery
+
+| View | Screenshot |
+|------|------------|
+| Scrum Board (To Do → In Progress → Done) | ![Jira Board](./assets/Screenshot%202025-05-05%20144908.png) |
+| Backlog with Epics and Sprints | ![Backlog View](./assets/Screenshot%202025-05-05%20145004.png) |
+| Story with Subtasks & Checklist | ![Story View](./assets/Screenshot%202025-05-05%20145106.png) |
+| Epic Panel Overview | ![Epic Panel](./assets/Screenshot%202025-05-05%20145256.png) |
+
+---
+
+## 📁 Project Files
+
+📎 [Training Schedule (Excel)](./assets/training_schedule.xlsx)
+
+---
+
+## 🧩 Epics in Jira Project
+
+| Epic | Description |
+|------|-------------|
+| Identify Support Roles | Define who supports which departments and shifts |
+| Credentialing & Compliance | Ensure onboarding is completed and HR cleared |
+| Training Coordination | Schedule sessions and assign trainers |
+| Shift Assignment & Deployment | Plan 24/7 Go-Live coverage and backup staffing |
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Multi-sprint agile project planning (using Jira)
+- Backlog refinement and prioritization by department
+- Real-world workflow mapping for staff readiness
+- Sprint reporting and communication to stakeholders
+
+---
+
+## 👩🏾‍⚕️ About Me
+
+I’m Kaidy Wright — a **Registered Nurse + Certified Scrum Master**. I specialize in:
+- Translating clinical challenges into project plans
+- Bridging the gap between operations and IT
+- Managing sprints, training, and go-live logistics
+- Delivering healthcare transformation with confidence and clarity
+
+---
+
+> 💬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/kaidywright/)  
+> 📧 Contact me at: **kaidywright1@gmail.com**
