@@ -128,92 +128,27 @@ This PDF shows a live view of the actual Smartsheet Scrum board in use.
 Or view here 📸 ![Smartsheet Scrum Board](./assets/Screenshot%202025-05-09%20225728.png)
 
 ---
-## ✅ Project 4 | Azure DevOps Board | Process Automation Rollout
-
-This project simulates a cross-departmental rollout of an automated leave request system using **Azure DevOps**. I used Epics, Features, and User Stories to manage sprint planning, team assignment, and backlog tracking. This example demonstrates my ability to operate within real-world Agile environments as a non-technical project coordinator.
-
----
-
-<table>
-<tr>
-  <td valign="top" width="50%">
-
-### 📌 Epic Breakdown
-
-- Define Requirements & Stakeholders  
-- Build & Integrate Automation Workflow  
-- Test & Validate with Users  
-- Training, Access & Launch
-
-Each Epic includes:
-- Features (e.g., create form, integrate API)
-- User Stories assigned to sprints
-- Prioritized and tagged for visibility
-
-  </td>
-  <td valign="top" width="50%">
-
-<img src="./assets/Screenshot%202025-05-11%20121049.png" width="100%"/>
-
-  </td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-  <td valign="top" width="50%">
-
-### 📋 User Story Example
-
-Each story contains:
-- Assigned team member  
-- Story points  
-- Priority level  
-- Iteration assignment  
-- Status: New, Active, Resolved, Closed
-
-  </td>
-  <td valign="top" width="50%">
-
-<img src="./assets/Screenshot%202025-05-11%20121826.png" width="100%"/>
-
-  </td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-  <td valign="top" width="50%">
-
-### 🧭 Scrum Board Workflow
-
-Cards move through:
-- To Do (New)
-- Active (In Progress)
-- Resolved (QA Passed)
-- Closed (Complete)
-
-This provides full visibility to all sprint work.
-
-  </td>
-  <td valign="top" width="50%">
-
-<img src="./assets/Screenshot%202025-05-11%20121737.png" width="100%"/>
-
-  </td>
-</tr>
-</table>
-
----
 ## 🧠 Key Skills Demonstrated
 - Created a fully functional Kanban/Scrum board inside Smartsheet from scratch
 - Used dropdown fields, conditional formatting, and view toggling
 - Managed sprint-based client onboarding across phases
 - Translated coordination tasks into Agile workflows for operational readiness
+---
+## ✅ Project 4 | Azure DevOps Board | Process Automation Rollout
+
+This project showcases the coordination of a process automation rollout using Azure DevOps. I tracked epics, features, and user stories from initial planning through sprint execution, demonstrating my project tracking and Agile coordination skills in a real-world DevOps tool.
+
+---
+
+| **View** | **Screenshot** |
+|---|---|
+| **Scrum Board (To Do → In Progress → Done)**<br>Tasks are moved through stages of completion to reflect the current sprint state. This is useful for stand-ups, prioritization, and visibility. | ![Azure Scrum Board](./assets/Screenshot%202025-05-11%20121049.png) |
+| **User Story Detail View**<br>This shows how each story includes story points, assigned iteration, tags, and a breakdown of criteria or risk. | ![User Story](./assets/Screenshot%202025-05-11%20121826.png) |
+| **Board Status Overview**<br>High-level visibility of the sprint workload across columns and states with assigned owners and completion percentages. | ![Board Overview](./assets/Screenshot)
+
+
+
+
 ## 👩🏾‍⚕️ About Me
 
 I’m Kaidy Wright — a **Registered Nurse + Certified Scrum Master**. I specialize in:
