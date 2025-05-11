@@ -164,5 +164,4 @@ Coordinating the launch of a leave request workflow across HR, IT, and Ops. Resp
 
 I'm Kaidy Wright — a Registered Nurse and Certified Scrum Master with a passion for organizing complex systems, building bridges between teams, and applying Agile principles to healthcare and tech environments.
 
-📧 [kaidywright1@gmail.com](mailto:kaidywright1@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/kaidywright/)
