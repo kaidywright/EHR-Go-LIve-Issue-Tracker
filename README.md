@@ -1,4 +1,4 @@
-# Multi-Platform Agile Project Coordination Portfolio
+# Multi-Platform Agile Project Coordinator Portfolio
 
 Hi, I'm **Kaidy Wright** — a Registered Nurse and Certified Scrum Master with over 15 years of healthcare experience. This repository showcases a 4-part portfolio demonstrating my ability to manage Agile projects across four industry-standard platforms:
 
