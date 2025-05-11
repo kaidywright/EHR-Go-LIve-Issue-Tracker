@@ -1,165 +1,154 @@
-# 🩺 EHR Implementation Project Portfolio (Multi-Platform Series)
+# Multi-Platform Agile Project Coordination Portfolio
 
-Hi, I'm **Kaidy Wright** — a Registered Nurse and Certified Scrum Master with over 15 years of healthcare experience. This repository showcases a **growing 4-part project portfolio** demonstrating how I use multiple tools and methodologies to plan, coordinate, and execute healthcare IT and go-live initiatives.
+Hi, I'm **Kaidy Wright** — a Registered Nurse and Certified Scrum Master with over 15 years of healthcare experience. This repository showcases a 4-part portfolio demonstrating my ability to manage Agile projects across four industry-standard platforms:
 
----
+- **GitHub**
+- **Jira**
+- **Smartsheet**
+- **Azure DevOps**
 
-## 📦 Project Overview
-
-| Project | Platform | Focus |
-|---------|----------|---------------------------------------------------------------|
-| ✅ **Project 1** | **GitHub (Markdown + Boards)** | Agile sprint for Barcode Medication Scanning Go-Live |
-| ✅ **Project 2** | **Jira Scrum Board** | Support staff onboarding & shift planning for full EHR Go-Live |
-| ✅ **Project 3**| **Smartsheet Scrum Board** |  SaaS onboarding coordination |
-| 🔜 Project 4 | Trello | Post-go-live stabilization and system optimization planning |
-
-Each project simulates a real-world scenario using the actual tools healthcare organizations implement in their tech stack. These are not theoretical writeups — they include task boards, subtasks, timelines, and documentation.
+Each project simulates a real-world scenario — from healthcare implementations to SaaS onboarding — using Agile boards, sprint planning, backlog grooming, and full coordination workflows.
 
 ---
 
-# ✅ Project 1: Barcode Scanning Go-Live (GitHub-Tracked Sprint)
+## Project Summary Table
 
-This project lives at [Project 1 – Healthcare Go-Live Sprint Tracker](https://github.com/kaidywright/Healthcare-Go-Live-Sprint-Tracker)
-
-## 🧠 Scenario
-
-A hospital is going live with barcode scanning functionality in its EHR. Staff are encountering:
-- Broken scanner workflows
-- Incomplete med orders
-- Access issues
-- Label printing problems
-
-## 🎯 Sprint Goal
-
-To resolve critical barcode-related issues within 2 weeks to restore safe medication administration.
-
-## 🛠 Tools Used
-- GitHub Projects
-- Markdown for backlog
-- Roles matrix, timeline, and retrospective tracking
-
-> 📌 This project showcases sprint management, backlog organization, and communication planning inside GitHub.
+| Project       | Platform        | Scenario/Focal Point                             |
+|---------------|------------------|--------------------------------------------------|
+| Project 1     | GitHub           | Barcode Medication Go-Live Sprint Tracker       |
+| Project 2     | Jira Scrum Board | EHR Go-Live Staffing & Training Coordination     |
+| Project 3     | Smartsheet       | SaaS Client Onboarding Workflow                  |
+| Project 4     | Azure DevOps     | Internal Process Automation Rollout              |
 
 ---
 
-# 🔵 Project 2: EHR Go-Live Staffing & Onboarding (Jira Scrum Project)
+# Project 1: Barcode Scanning Go-Live (GitHub)
 
-This project utilizes a Jira Scrum boards to manage a hospital’s support staff ramp-up ahead of a major EHR Go-Live.
+**Platform:** GitHub  
+**Focus:** Sprint coordination for EHR barcode scanning functionality
 
----
+### Scenario
+A hospital is launching barcode scanning for medication administration. On go-live, staff encounter:
+- Scanner failures
+- Missing medication orders
+- Label print issues
+- EHR access delays
 
-## 📘 Project Summary
+### What I Created
+- GitHub board for sprint task tracking
+- Markdown-based backlog with user stories
+- Roles matrix, goal setting, and sprint timeline
 
-This project simulates how I would coordinate:
-- Credentialing for 50+ temporary Super Users & Elbow Support staff
-- HIPAA and system training compliance
-- Staff scheduling and shift coverage during Go-Live week
+[View GitHub Project](https://github.com/kaidywright/Healthcare-Go-Live-Sprint-Tracker)
 
-The project is structured using Agile Scrum methodology with epics, sprints, and subtasks built inside Jira.
-
----
-
-## 🔗 Jira Board (Private View)
-
-🔗 [View Jira Scrum Board](https://kaidywright1.atlassian.net/jira/software/projects/EHRGO/boards/35)
-
-> ⚠️ Jira boards are private by default. Screenshots are provided below for full visibility into epics, backlog, sprint structure, and tracking.
-
----
-
-## 📸 Jira Screenshot Gallery
-
-| View | Screenshot |
-|------|------------|
-| Scrum Board (To Do → In Progress → Done) | ![Jira Board](./assets/Screenshot%202025-05-05%20144908.png) |
-| Backlog with Epics and Sprints | ![Backlog View](./assets/Screenshot%202025-05-05%20145004.png) |
-| Story with Subtasks & Checklist | ![Story View](./assets/Screenshot%202025-05-05%20145106.png) |
-| Epic Panel Overview | ![Epic Panel](./assets/Screenshot%202025-05-05%20145256.png) |
+### Skills Demonstrated
+- Sprint planning and backlog creation
+- Clinical-to-technical translation
+- GitHub Projects for Agile workflows
 
 ---
 
-## 📁 Project Files
+# Project 2: EHR Staffing & Onboarding (Jira)
 
-📎  [Training Schedule (Excel)](./assets/training_schedule.xlsx)
-Download to view
----
+**Platform:** Jira  
+**Focus:** Credentialing, training, and scheduling for go-live staffing support
 
-## 🧩 Epics in Jira Project
+### Scenario
+Coordinating 50+ Super Users and elbow support staff ahead of a major EHR go-live. Tasks include:
+- Credentialing and system access
+- Scheduling shifts across departments
+- Training compliance and deployment updates
 
-| Epic | Description |
-|------|-------------|
-| Identify Support Roles | Define who supports which departments and shifts |
-| Credentialing & Compliance | Ensure onboarding is completed and HR cleared |
-| Training Coordination | Schedule sessions and assign trainers |
-| Shift Assignment & Deployment | Plan 24/7 Go-Live coverage and backup staffing |
+### What I Created
+- Jira Scrum board with epics, stories, and subtasks
+- Sprint setup, backlog refinement, and linked checklists
+- Training schedule in Excel
 
----
+[View Jira Board (Private)](https://kaidywright1.atlassian.net/jira/software/projects/EHRGO/boards/35)
 
-## 🧠 Skills Demonstrated
+### Screenshot Gallery
 
-- Multi-sprint agile project planning (using Jira)
-- Backlog refinement and prioritization by department
-- Real-world workflow mapping for staff readiness
-- Sprint reporting and communication to stakeholders
+| View                      | Screenshot |
+|---------------------------|------------|
+| Scrum Board               | ![Jira Board](./assets/Screenshot%202025-05-05%20144908.png) |
+| Epics and Sprint Backlog  | ![Backlog](./assets/Screenshot%202025-05-05%20145004.png) |
+| User Story with Checklist | ![Story](./assets/Screenshot%202025-05-05%20145106.png) |
+| Epic Panel                | ![Epic](./assets/Screenshot%202025-05-05%20145256.png) |
 
----
-# 🟦 Project 3: Client Launch Navigator – Agile Support Workflow (Smartsheet Scrum Board)
+[Download Training Schedule (Excel)](./assets/training_schedule.xlsx)
 
-This project simulates how I, as a Project Coordinator, would manage the onboarding and go-live preparation for multiple SaaS clients using Agile principles inside Smartsheet.
-
-I created a **Scrum-style board using Smartsheet’s Card View**, managing tasks across two sprints: Setup and Go-Live Prep. Each onboarding task is treated like a user story, with a status of **To Do → In Progress → Done**, tracked across clients like ZenCloud, Apex Energy, and HealthTech Co.
-
-The board includes:
-- Sprint assignments and client-specific task cards
-- Status-driven swimlanes for visual progress tracking
-- Priority, owner, and due dates on each card
-- Notes to capture blockers or special needs
-
-✅ All tasks were created in **Grid View**, then visualized in **Card View** as a functional Scrum board — reflecting my ability to plan, structure, and deliver coordinated rollouts across stakeholders.
+### Skills Demonstrated
+- Multi-sprint Agile planning in Jira
+- Department-specific onboarding workflows
+- Subtask creation, tagging, and sprint management
 
 ---
 
-## 📸 Smartsheet Board Snapshot
+# Project 3: Client Launch Navigator (Smartsheet)
 
-📎 [Client Onboarding Scrum Board (PDF)](./assets/smartsheet_scrum_board.pdf)
+**Platform:** Smartsheet  
+**Focus:** Agile onboarding and launch tracking for SaaS clients
 
-This PDF shows a live view of the actual Smartsheet Scrum board in use.
+### Scenario
+Managing onboarding for three SaaS clients. The board tracks:
+- Kickoff meetings and task assignment
+- Sandbox setup and internal training
+- Go-live preparation and client handoff
 
-Or view here 📸 ![Smartsheet Scrum Board](./assets/Screenshot%202025-05-09%20225728.png)
+### What I Created
+- Smartsheet Scrum board in Grid and Card View
+- Custom columns for sprint, priority, and blockers
+- PDF export and inline snapshot
 
----
-## 🧠 Key Skills Demonstrated
-- Created a fully functional Kanban/Scrum board inside Smartsheet from scratch
-- Used dropdown fields, conditional formatting, and view toggling
-- Managed sprint-based client onboarding across phases
-- Translated coordination tasks into Agile workflows for operational readiness
----
-## ✅ Project 4 | Azure DevOps Board | Process Automation Rollout
+[Download Smartsheet Scrum Board (PDF)](./assets/smartsheet_scrum_board.pdf)  
+![Smartsheet Screenshot](./assets/Screenshot%202025-05-09%20225728.png)
 
-This project showcases my ability to manage Agile work in Azure DevOps by tracking epics, features, and user stories across multiple iterations.
-
----
-
-| View | Screenshot |
-|------|------------|
-| Scrum Board (To Do → In Progress → Done) | ![Scrum Board](./assets/Screenshot%202025-05-11%20122049.png) |
-| User Story Detail | ![User Story Detail](./assets/Screenshot%202025-05-11%20121826.png) |
-| Board View (Columns & Statuses) | ![Board View](./assets/Screenshot%202025-05-11%20121737.png) |
-| Backlog View | ![Backlog View](./assets/Screenshot%202025-05-11%20121907.png) |
-| Feature & Epic Tree View | ![Hierarchy](./assets/Screenshot%202025-05-11%20121650.png) |
-| Iteration Assignment Example | ![Iteration](./assets/Screenshot%202025-05-11%20121555.png) |
+### Skills Demonstrated
+- Smartsheet board design and configuration
+- Agile coordination of multi-client onboarding
+- Task tracking and status swimlanes
 
 ---
 
-## 👩🏾‍⚕️ About Me
+# Project 4: Process Automation Rollout (Azure DevOps)
 
-I’m Kaidy Wright — a **Registered Nurse + Certified Scrum Master**. I specialize in:
-- Translating clinical challenges into project plans
-- Bridging the gap between operations and IT
-- Managing sprints, training, and go-live logistics
-- Delivering healthcare transformation with confidence and clarity
+**Platform:** Azure DevOps  
+**Focus:** Internal rollout of a digital leave request system
+
+### Scenario
+Coordinating the launch of a leave request workflow across HR, IT, and Ops. Responsibilities included:
+- Requirement gathering and access planning
+- Tracking QA/testing and training rollout
+- Managing Epics, Features, and Stories by sprint
+
+### What I Created
+- Azure DevOps board using Epic → Feature → Story hierarchy
+- Sprint assignments and work item linking
+- Screenshot set and downloadable board PDF
+
+[Download Azure DevOps Board (PDF)](./assets/Process%20Automation%20Tracker%20Team%20Epics%20Backlog%20-%20Boards.pdf)
+
+### Screenshot Gallery
+
+| View              | Screenshot |
+|-------------------|------------|
+| Scrum Board       | ![Scrum Board](./assets/Screenshot%202025-05-11%20122049.png) |
+| User Story Detail | ![Story](./assets/Screenshot%202025-05-11%20121826.png) |
+| Status Columns    | ![Status](./assets/Screenshot%202025-05-11%20121737.png) |
+| Full Backlog      | ![Backlog](./assets/Screenshot%202025-05-11%20121907.png) |
+| Epic/Feature Tree | ![Tree](./assets/Screenshot%202025-05-11%20121650.png) |
+| Sprint Assignment | ![Sprint](./assets/Screenshot%202025-05-11%20121555.png) |
+
+### Skills Demonstrated
+- End-to-end Azure DevOps project setup
+- Work item linking and sprint assignment
+- Agile backlog management using hierarchy
 
 ---
 
-> 💬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/kaidywright/)  
-> 📧 Contact me at: **kaidywright1@gmail.com**
+## About Me
+
+I'm Kaidy Wright — a Registered Nurse and Certified Scrum Master with a passion for organizing complex systems, building bridges between teams, and applying Agile principles to healthcare and tech environments.
+
+📧 [kaidywright1@gmail.com](mailto:kaidywright1@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kaidywright/)
