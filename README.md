@@ -128,7 +128,87 @@ This PDF shows a live view of the actual Smartsheet Scrum board in use.
 Or view here 📸 ![Smartsheet Scrum Board](./assets/Screenshot%202025-05-09%20225728.png)
 
 ---
+## ✅ Project 4 | Azure DevOps Board | Process Automation Rollout
 
+This project simulates a cross-departmental rollout of an automated leave request system using **Azure DevOps**. I used Epics, Features, and User Stories to manage sprint planning, team assignment, and backlog tracking. This example demonstrates my ability to operate within real-world Agile environments as a non-technical project coordinator.
+
+---
+
+<table>
+<tr>
+  <td valign="top" width="50%">
+
+### 📌 Epic Breakdown
+
+- Define Requirements & Stakeholders  
+- Build & Integrate Automation Workflow  
+- Test & Validate with Users  
+- Training, Access & Launch
+
+Each Epic includes:
+- Features (e.g., create form, integrate API)
+- User Stories assigned to sprints
+- Prioritized and tagged for visibility
+
+  </td>
+  <td valign="top" width="50%">
+
+<img src="./assets/Screenshot%202025-05-11%20121049.png" width="100%"/>
+
+  </td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+  <td valign="top" width="50%">
+
+### 📋 User Story Example
+
+Each story contains:
+- Assigned team member  
+- Story points  
+- Priority level  
+- Iteration assignment  
+- Status: New, Active, Resolved, Closed
+
+  </td>
+  <td valign="top" width="50%">
+
+<img src="./assets/Screenshot%202025-05-11%20121826.png" width="100%"/>
+
+  </td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+  <td valign="top" width="50%">
+
+### 🧭 Scrum Board Workflow
+
+Cards move through:
+- To Do (New)
+- Active (In Progress)
+- Resolved (QA Passed)
+- Closed (Complete)
+
+This provides full visibility to all sprint work.
+
+  </td>
+  <td valign="top" width="50%">
+
+<img src="./assets/Screenshot%202025-05-11%20121737.png" width="100%"/>
+
+  </td>
+</tr>
+</table>
+
+---
 ## 🧠 Key Skills Demonstrated
 - Created a fully functional Kanban/Scrum board inside Smartsheet from scratch
 - Used dropdown fields, conditional formatting, and view toggling
