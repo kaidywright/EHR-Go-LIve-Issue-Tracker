@@ -21,30 +21,43 @@ Each project simulates a real-world scenario — from healthcare implementations
 | Project 4     | Azure DevOps     | Internal Process Automation Rollout              |
 
 ---
-
-# Project 1: Barcode Scanning Go-Live (GitHub)
+# Project 1: Barcode Scanning Go-Live – Sprint Tracker (GitHub)
 
 **Platform:** GitHub  
-**Focus:** Sprint coordination for EHR barcode scanning functionality
+**Focus:** Sprint coordination for barcode scanning functionality during an EHR go-live
 
-### Scenario
-A hospital is launching barcode scanning for medication administration. On go-live, staff encounter:
-- Scanner failures
-- Missing medication orders
-- Label print issues
-- EHR access delays
+## Scenario
+A hospital launches barcode scanning for medication administration. On Day 1 of go-live, staff report:
+- Scanners not registering medications
+- Incomplete medication orders appearing in the system
+- Label printing issues across units
+- Delays in system access for new hires
 
-### What I Created
-- GitHub board for sprint task tracking
-- Markdown-based backlog with user stories
-- Roles matrix, goal setting, and sprint timeline
+## What I Created
+- A **public GitHub project board** using the Scrum framework (To Do → In Progress → Done)
+- Issues created for user stories and sprint tasks
+- Simulated work progress across the columns to mirror a real-world sprint in motion
 
-[View GitHub Project](https://github.com/kaidywright/Healthcare-Go-Live-Sprint-Tracker)
+[🔗 View GitHub Project Board](https://github.com/kaidywright/Healthcare-Go-Live-Sprint-Tracker/projects/1)
 
-### Skills Demonstrated
-- Sprint planning and backlog creation
-- Clinical-to-technical translation
-- GitHub Projects for Agile workflows
+## Sprint Task Examples
+
+| Task                                                  | Status      |
+|--------------------------------------------------------|-------------|
+| Investigate barcode scanning issues on Med-Surg floor  | ✅ Done      |
+| Troubleshoot missing medication orders in EHR          | 🔄 In Progress |
+| Grant EHR access to newly hired RNs                    | ✅ Done      |
+| Validate patient label print workflow                  | ✅ Done      |
+| Provide barcode scanner refresher training             | ⏳ To Do     |
+| Assign Super Users to high-volume shifts               | 🔄 In Progress |
+| Create escalation plan for scanner issues              | ⏳ To Do     |
+| Track incident reports related to barcode errors       | ⏳ To Do     |
+
+## Skills Demonstrated
+- Backlog creation and sprint management in GitHub Projects
+- Use of GitHub Issues to simulate story-level planning
+- Visual communication of work progress using Kanban columns
+- Mapping real-world clinical incidents into technical workflows
 
 ---
 
