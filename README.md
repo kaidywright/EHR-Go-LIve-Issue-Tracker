@@ -136,18 +136,17 @@ Or view here 📸 ![Smartsheet Scrum Board](./assets/Screenshot%202025-05-09%202
 ---
 ## ✅ Project 4 | Azure DevOps Board | Process Automation Rollout
 
-This project showcases the coordination of a process automation rollout using Azure DevOps. I tracked epics, features, and user stories from initial planning through sprint execution, demonstrating my project tracking and Agile coordination skills in a real-world DevOps tool.
+This project showcases my ability to manage Agile work using Azure DevOps for a cross-functional HR automation rollout. I tracked Epics, Features, and User Stories across multiple sprints.
 
 ---
 
-| **View** | **Screenshot** |
-|---|---|
-| **Scrum Board (To Do → In Progress → Done)**<br>Tasks are moved through stages of completion to reflect the current sprint state. This is useful for stand-ups, prioritization, and visibility. | ![Azure Scrum Board](./assets/Screenshot%202025-05-11%20121049.png) |
-| **User Story Detail View**<br>This shows how each story includes story points, assigned iteration, tags, and a breakdown of criteria or risk. | ![User Story](./assets/Screenshot%202025-05-11%20121826.png) |
-| **Board Status Overview**<br>High-level visibility of the sprint workload across columns and states with assigned owners and completion percentages. | ![Board Overview](./assets/Screenshot)
+| View | Screenshot |
+|------|------------|
+| Scrum Board (To Do → In Progress → Done) | ![Scrum Board](./assets/Screenshot%202025-05-11%20121049.png) |
+| User Story Detail | ![User Story](./assets/Screenshot%202025-05-11%20121826.png) |
+| Board Workflow (Status Columns) | ![Board View](./assets/Screenshot%202025-05-11%20121737.png) |
 
-
-
+---
 
 ## 👩🏾‍⚕️ About Me
 
