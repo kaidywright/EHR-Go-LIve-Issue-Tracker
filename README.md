@@ -38,7 +38,7 @@ A hospital launches barcode scanning for medication administration. On Day 1 of 
 - Issues created for user stories and sprint tasks
 - Simulated work progress across the columns to mirror a real-world sprint in motion
 
-[🔗 View GitHub Project Board](https://github.com/kaidywright/Healthcare-Go-Live-Sprint-Tracker/projects/1)
+[[[🔗 View GitHub Project Board]([https://github.com/kaidywright/Healthcare-Go-Live-Sprint-Tracker/projects/1])
 
 ## Sprint Task Examples
 
