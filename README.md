@@ -136,15 +136,18 @@ Or view here 📸 ![Smartsheet Scrum Board](./assets/Screenshot%202025-05-09%202
 ---
 ## ✅ Project 4 | Azure DevOps Board | Process Automation Rollout
 
-This project showcases my ability to manage Agile work using Azure DevOps for a cross-functional HR automation rollout. I tracked Epics, Features, and User Stories across multiple sprints.
+This project showcases my ability to manage Agile work in Azure DevOps by tracking epics, features, and user stories across multiple iterations.
 
 ---
 
 | View | Screenshot |
 |------|------------|
-| Scrum Board (To Do → In Progress → Done) | ![Scrum Board](./assets/Screenshot%202025-05-11%20121049.png) |
-| User Story Detail | ![User Story](./assets/Screenshot%202025-05-11%20121826.png) |
-| Board Workflow (Status Columns) | ![Board View](./assets/Screenshot%202025-05-11%20121737.png) |
+| Scrum Board (To Do → In Progress → Done) | ![Scrum Board](./assets/Screenshot%202025-05-11%20122049.png) |
+| User Story Detail | ![User Story Detail](./assets/Screenshot%202025-05-11%20121826.png) |
+| Board View (Columns & Statuses) | ![Board View](./assets/Screenshot%202025-05-11%20121737.png) |
+| Backlog View | ![Backlog View](./assets/Screenshot%202025-05-11%20121907.png) |
+| Feature & Epic Tree View | ![Hierarchy](./assets/Screenshot%202025-05-11%20121650.png) |
+| Iteration Assignment Example | ![Iteration](./assets/Screenshot%202025-05-11%20121555.png) |
 
 ---
 
